@@ -1,3 +1,54 @@
 ##Bookmarks from Twitter
 
 - Kaggle Days by jfpuget: https://github.com/jfpuget/KaggleDays_Paris_2022
+- Gentle intro to Github : https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq
+- Reproducible Data Pipelines : https://rap4mads.eu/
+- Functional data analysis using R : https://nrennie.rbind.io/blog/2022-11-14-using-functional-analysis-to-model-air-pollution-data-in-r/ , https://twitter.com/nrennie35/status/1592085630955454464?s=20&t=Sz2PRP1UdENVb_FiiJojkw
+- Time series AI using FastAI : https://github.com/timeseriesAI/tsai
+- Why predict proba is wrong : https://towardsdatascience.com/pythons-predict-proba-doesn-t-actually-predict-probabilities-and-how-to-fix-it-f582c21d63fc
+- Google search operators : https://ahrefs.com/blog/google-advanced-search-operators/
+- Creating architecture diagrams in Azure : https://www.youtube.com/watch?v=QR-64mFqhf4
+- What it takes to be a Python expert : https://www.youtube.com/watch?v=7lmCu8wz8ro
+- If you have a feature that is very correlated with your target in a regression task, fit your GBDT on the residual (target - dominating_feature) rather than target itself. Especially works well for forecasting problems. residual = target - target_mean_last_week https://twitter.com/a_erdem4/status/1587791119772811265?s=20&t=Sz2PRP1UdENVb_FiiJojkw
+- Data validation with great expectations : https://www.borealisai.com/research-blogs/validating-delta-tables-with-great-expectations/
+- Explainability workshop : https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL
+- AutoProfiler :http://dig.cmu.edu/AutoProfiler/lab/index.html
+- Why SHAP could be wrong : https://arxiv.org/pdf/2209.13429.pdf
+- Statistical mybusting : https://twitter.com/naked_statist/status/1587239330271170560?s=20&t=Sz2PRP1UdENVb_FiiJojkw
+- Arrow, duckdb: https://www.christophenicault.com/post/large_dataframe_arrow_duckdb/
+- Uncertainty class: https://uncertaintyclass.com/
+- R Workflow: http://hbiostat.org/rflow/
+- Statistical rethinking: https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN
+- Data Science class: https://www.youtube.com/playlist?list=PLuD_SqLtxSdWcl2vx4K-0mSflRRLyfwlJ
+- DeepTime, Salesforce forecasting: https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/
+- UVA Machine Learning: https://uvaml1.github.io/
+- Checking & comparing distributions for drift: https://twitter.com/sh_reya/status/1577827995485581312?s=20&t=Sz2PRP1UdENVb_FiiJojkw
+- Power bi deployments : https://martinschoombee.com/2020/09/15/automating-power-bi-deployments-a-series/
+- ts-mule LIME for TS: https://github.com/dbvis-ukon/ts-mule 
+- MLflow crash course : https://www.youtube.com/watch?v=daBTYQP23-A
+- Introduction to Modern Stats: https://openintro-ims.netlify.app/
+- Time series classification : https://arxiv.org/pdf/2208.05280.pdf
+- Clustering using SHAP: https://www.aidancooper.co.uk/supervised-clustering-shap-values/
+- Caliberation : https://twitter.com/theaisummer/status/1573251837163147264?s=20&t=Sz2PRP1UdENVb_FiiJojkw
+- Missing data and imputation : https://www.sciencedirect.com/science/article/pii/S0895435618308710
+- Experimental learning: https://www.youtube.com/watch?v=5oGdDGPVLjc&feature=youtu.be
+- Shapley values in XGB : https://twitter.com/radekosmulski/status/1572379297331163138?s=20&t=Sz2PRP1UdENVb_FiiJojkw
+- Linear regression: https://mlu-explain.github.io/linear-regression/
+- PyTorch workflow: https://www.learnpytorch.io/01_pytorch_workflow/
+- Snowflake ML: http://www.pattersonconsultingtn.com/blog/creditcard_fraud_detection_w_snowflake_sagemaker_part_1.html
+- Maths for ML: https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS
+- How to avoid ML pitfalls: https://arxiv.org/abs/2108.02497
+- Time series analysis lecture : https://web.stat.tamu.edu/~suhasini/teaching673/time_series.pdf
+- Forecast trap : https://arxiv.org/abs/2207.10193
+- DFA: http://strata.uga.edu/8370/lecturenotes/discriminantFunctionAnalysis.html#:~:text=DFA%20is%20a%20multivariate%20technique,regression%20and%20principal%20components%20analysis
+- Feature based TS: https://arxiv.org/abs/2208.06146
+- Poisson regression in sklearn : https://www.youtube.com/watch?v=X5XE_2_A7gQ&list=PLYx7XA2nY5GcBWLGTzhJ1vxGtHIcyHrRr&index=9
+- Overfit your model first : https://www.youtube.com/watch?v=4u8FxNEDUeg&t=1260s
+- ML interpretability : https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques/blob/main/Chapter06/Intro_to_SHAP.ipynb
+- Logistic  regression, log odds explanation : https://mlu-explain.github.io/logistic-regression/
+- Kaggle tips for FE: https://www.youtube.com/watch?v=RtqtM1UJfZc
+- Kaggle TPS : https://github.com/arnabbiswas1/kaggle_pipeline_tps_aug_22
+- ML in Finance: https://www.youtube.com/playlist?list=PL4i4aZbplv9KZzkgz2U3RYObCcmXSHwOc
+- Classifer **must read** : https://projecteuclid.org/journals/statistical-science/volume-21/issue-1/Classifier-Technology-and-the-Illusion-of-Progress/10.1214/088342306000000060.full
+- Power BI slicer haks: https://www.youtube.com/watch?v=TIK09c05IF0
+- 
