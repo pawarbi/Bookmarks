@@ -51,4 +51,56 @@
 - ML in Finance: https://www.youtube.com/playlist?list=PL4i4aZbplv9KZzkgz2U3RYObCcmXSHwOc
 - Classifer **must read** : https://projecteuclid.org/journals/statistical-science/volume-21/issue-1/Classifier-Technology-and-the-Illusion-of-Progress/10.1214/088342306000000060.full
 - Power BI slicer haks: https://www.youtube.com/watch?v=TIK09c05IF0
-- 
+- Data modeling : https://www.vertabelo.com/blog/example_er_diagrams/
+- data appp: https://vaex.io/blog/vaex-plus-streamlit-where-simplicity-meets-big-data
+- PCA: https://arxiv.org/abs/1404.1100
+- MLOPS: https://arxiv.org/abs/2205.02302
+- DOLT DATASETS: https://github.com/alecstein/dolt_datascience/blob/master/hospitals_v3/cleanup/cleaning-hospitals-dataset.ipynb
+- Mixed effct models: https://meghan.rbind.io/blog/2022-06-28-a-beginner-s-guide-to-mixed-effects-models/
+- ML Pen and paper: https://arxiv.org/abs/2206.13446
+- Interactive git: https://learngitbranching.js.org/
+- 4 ML Skills you need: https://www.datakwery.com/coursera/four-ml-skills-all-data-scientists-need/
+- Apache Arrow + dplyr : https://jthomasmock.github.io/arrow-dplyr/#/
+- Explainability at deployment: https://dl.acm.org/doi/abs/10.1145/3351095.3375624
+- why create good validatoin set : https://www.fast.ai/posts/2017-11-13-validation-sets.html
+- MMM: https://fairing.co/blog/calibrating-your-marketing-mix-model-with-survey-data
+- Big data engineering in depth : https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF
+- Best kaggle notebooks : https://medium.com/coders-mojo/major-compilation-best-notebooks-on-kaggle-part-1-12ebd4c1a27a
+- Dashboards in Python : https://anaconda.cloud/dashboardlandscape
+- class imblanace: https://t.co/n3kDAqCHoD
+- ML Engineers data needs: https://arxiv.org/abs/2206.02923
+- Dirty cat : https://www.youtube.com/watch?v=_GNaaeEI2tg
+- customer churn : https://medium.com/data-science-at-microsoft/estimating-customer-churn-based-on-usage-data-2662e0c68dc7?source=social.tw&_branch_match_id=1093710930516554160&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1Y8Ms4zIqcgzKClMAgBBuiVMIwAAAA%3D%3D
+- Tabular data: https://www.kaggle.com/competitions/amex-default-prediction/overview
+- Visualizing time series data : https://dataviztoday.com/shownotes/73
+- data benchmark : https://www.kaggle.com/code/titericz/profiling-pandas-and-cudf/notebook
+- data analysis of observation studies: http://designexptr.org/
+- Intro to DS: http://rafalab.dfci.harvard.edu/dsbook/
+- P value : https://www.lucymcgowan.com/talk/
+- on tuning xgboost : I do it by hand.  Set learning rate so that number of trees is large enough, say 1000.  Then tune max depth, adjusting lr to keep number of trees large enough.  Then tune min_child_weight, col_sample, row_sample (not sure about exact name) 
+- Neural forecats: https://github.com/Nixtla/neuralforecast
+- Interpreting confidence interval: https://rpsychologist.com/d3/ci/
+- ML with missing values: https://www.slideshare.net/GaelVaroquaux/machine-learning-with-missing-values
+- interpretability vs accuracy: https://pubmed.ncbi.nlm.nih.gov/34056577/
+- Bayesian rock climning: https://www.ethanrosenthal.com/2022/04/15/bayesian-rock-climbing/
+- Fallacy stats: https://academic.oup.com/aje/article/177/4/292/147738?login=false
+- fstring: https://fstring.help/
+- confidenc einterval around ML models: https://arxiv.org/abs/2204.05173
+- DS Projects: https://towardsdatascience.com/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800
+- Listen to this : https://nssdeviations.com/154-just-tweak-some-parameters
+- Model inspection : https://www.youtube.com/watch?v=GfkSvUug7js&feature=youtu.be
+- causal inference and experimentation: https://www.youtube.com/watch?v=5Myw5A-ZILs
+- "There is more to data than distributions: https://www.argmin.net/2022/03/31/external-evaluations/
+- David Picard: ML course: https://davidpicard.github.io/teaching/
+- Precision vs recall: https://mlu-explain.github.io/precision-recall/
+- matplotlib:https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
+- matplotlib: https://pbpython.com/effective-matplotlib.html
+- Forecasting DL?? : https://arxiv.org/abs/2101.02118
+- Swifter to speed up apply in pandas: https://github.com/jmcarpenter2/swifter
+- Pipeline for mixed dtypes: https://github.com/rasbt/machine-learning-notes/blob/main/categorical-features/sklearn-categorical-numerical-mix.ipynb
+- ADF: https://www.youtube.com/channel/UC0zEhQwiq9uk6owZewiPeLQ
+- cross validation FAQ: https://avehtari.github.io/modelselection/CV-FAQ.html
+- Distribution explorer: https://distribution-explorer.github.io/index.html
+- Data driven labeling for plant data, predictive analytics: https://papers.phmsociety.org/index.php/ijphm/article/view/3045
+- DS@ Command Line: https://datascienceatthecommandline.com/
+- LOST, Library of statistical techniques: https://lost-stats.github.io/
