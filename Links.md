@@ -104,3 +104,6 @@
 - Data driven labeling for plant data, predictive analytics: https://papers.phmsociety.org/index.php/ijphm/article/view/3045
 - DS@ Command Line: https://datascienceatthecommandline.com/
 - LOST, Library of statistical techniques: https://lost-stats.github.io/
+- Guide to selecting model for exploration, inference and prediction: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336
+- R in Action :https://www.cs.uni.edu/~jacobson/4772/week11/R_in_Action.pdf
+- 
