@@ -106,4 +106,11 @@
 - LOST, Library of statistical techniques: https://lost-stats.github.io/
 - Guide to selecting model for exploration, inference and prediction: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336
 - R in Action :https://www.cs.uni.edu/~jacobson/4772/week11/R_in_Action.pdf
-- 
+- **RLS**
+  - RLS and Data Masking : https://www.youtube.com/watch?v=9NDTm20XU0I
+  - Patterns : https://www.youtube.com/watch?v=FvLxvgZWC5Y
+  - MS Docs: https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-rls
+  - Shared Dataset: https://databayes.co.uk/row-level-security-on-a-power-bi-golden-dataset/
+    - For shared datasets, give users viewer with build permission to the workspace (not build and edit) where dataset is. Or give users dataset specific access (not to the entire workspace). 
+    - https://www.dynamicpeople.nl/en/news/sharing-datasets/
+  - Reza's Book
