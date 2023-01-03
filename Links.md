@@ -118,4 +118,4 @@
     - Searching runs: https://www.databricks.com/blog/2019/10/03/analyzing-your-mlflow-data-with-dataframes.html
     - Exmaples: https://github.com/amesar/mlflow-examples
     - https://muttdata.ai/blog/2021/02/12/ml-flow.html
-    - 
+    - mlflow.pyfunc for custom flavor : https://stackoverflow.com/questions/74257370/mlflow-pyfunc-load-model-mlflow-pyfunc-save-model-how-to-pass-additional-art
