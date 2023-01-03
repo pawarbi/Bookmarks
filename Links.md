@@ -1,4 +1,4 @@
-##Bookmarks from Twitter
+## My Bookmarks: 
 
 - Kaggle Days by jfpuget: https://github.com/jfpuget/KaggleDays_Paris_2022
 - Gentle intro to Github : https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq
@@ -106,6 +106,11 @@
 - LOST, Library of statistical techniques: https://lost-stats.github.io/
 - Guide to selecting model for exploration, inference and prediction: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336
 - R in Action :https://www.cs.uni.edu/~jacobson/4772/week11/R_in_Action.pdf
+- Probabilistic ML : https://probml.github.io/pml-book/book2.html
+- Harvard AI research study notes: https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#
+- Auto TS : https://www.kaggle.com/code/konradb/ts-5-automatic-for-the-people
+- Dealing with pandemic in ts : https://arxiv.org/abs/2212.05369
+- 
 - **RLS**
   - RLS and Data Masking : https://www.youtube.com/watch?v=9NDTm20XU0I
   - Patterns : https://www.youtube.com/watch?v=FvLxvgZWC5Y
@@ -120,3 +125,9 @@
     - https://muttdata.ai/blog/2021/02/12/ml-flow.html
     - mlflow.pyfunc for custom flavor : https://stackoverflow.com/questions/74257370/mlflow-pyfunc-load-model-mlflow-pyfunc-save-model-how-to-pass-additional-art
     - mlflow functions: https://mlops.community/scaling-ml-model-development-with-mlflow/
+    - Recipes: https://fukumaruuu.medium.com/a-step-by-step-guide-to-using-mlflow-recipes-to-refactor-messy-notebooks-f78196b97ff0
+    - MLFLOW to SQL: https://ploomber.io/blog/mlflow2sql/?utm_content=buffer0dfa8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+    - 
+
+
+Last updated 1/3/2023
