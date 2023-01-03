@@ -114,7 +114,7 @@
     - For shared datasets, give users viewer with build permission to the workspace (not build and edit) where dataset is. Or give users dataset specific access (not to the entire workspace). 
     - https://www.dynamicpeople.nl/en/news/sharing-datasets/
   - Reza's Book
-  - **MLFlow**
+ - **MLFlow**
     - Searching runs: https://www.databricks.com/blog/2019/10/03/analyzing-your-mlflow-data-with-dataframes.html
     - Exmaples: https://github.com/amesar/mlflow-examples
     - https://muttdata.ai/blog/2021/02/12/ml-flow.html
