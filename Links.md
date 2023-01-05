@@ -132,6 +132,7 @@
     - mlflow Project: https://www.youtube.com/watch?v=gaOWMIvEfoM
     - Model evaluation : https://www.databricks.com/blog/2022/04/19/model-evaluation-in-mlflow.html
     - Ensembles : https://www.databricks.com/blog/2021/09/21/managing-model-ensembles-with-mlflow.html
+    - `.log_model` : https://learn.microsoft.com/en-us/azure/machine-learning/how-to-log-mlflow-models?tabs=wrapper#logging-models-with-a-custom-signature-environment-or-samples
 
 
 Last updated 1/5/2023
