@@ -131,6 +131,7 @@
     - Using client : https://mlflow.org/docs/latest/python_api/mlflow.client.html
     - mlflow Project: https://www.youtube.com/watch?v=gaOWMIvEfoM
     - Model evaluation : https://www.databricks.com/blog/2022/04/19/model-evaluation-in-mlflow.html
+    - Ensembles : https://www.databricks.com/blog/2021/09/21/managing-model-ensembles-with-mlflow.html
 
 
 Last updated 1/5/2023
