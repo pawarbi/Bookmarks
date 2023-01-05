@@ -127,7 +127,10 @@
     - mlflow functions: https://mlops.community/scaling-ml-model-development-with-mlflow/
     - Recipes: https://fukumaruuu.medium.com/a-step-by-step-guide-to-using-mlflow-recipes-to-refactor-messy-notebooks-f78196b97ff0
     - MLFLOW to SQL: https://ploomber.io/blog/mlflow2sql/?utm_content=buffer0dfa8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+    - `.log_batch` : https://medium.com/@ij_82957/how-to-reduce-mlflow-logging-overhead-by-using-log-batch-b61301cc540f
+    - Using client : https://mlflow.org/docs/latest/python_api/mlflow.client.html
+    - mlflow Project: https://www.youtube.com/watch?v=gaOWMIvEfoM
     - 
 
 
-Last updated 1/3/2023
+Last updated 1/5/2023
