@@ -130,7 +130,7 @@
     - `.log_batch` : https://medium.com/@ij_82957/how-to-reduce-mlflow-logging-overhead-by-using-log-batch-b61301cc540f
     - Using client : https://mlflow.org/docs/latest/python_api/mlflow.client.html
     - mlflow Project: https://www.youtube.com/watch?v=gaOWMIvEfoM
-    - 
+    - Model evaluation : https://www.databricks.com/blog/2022/04/19/model-evaluation-in-mlflow.html
 
 
 Last updated 1/5/2023
