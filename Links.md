@@ -133,6 +133,10 @@
     - Model evaluation : https://www.databricks.com/blog/2022/04/19/model-evaluation-in-mlflow.html
     - Ensembles : https://www.databricks.com/blog/2021/09/21/managing-model-ensembles-with-mlflow.html
     - `.log_model` : https://learn.microsoft.com/en-us/azure/machine-learning/how-to-log-mlflow-models?tabs=wrapper#logging-models-with-a-custom-signature-environment-or-samples
-
+    - 
+- **HPO**
+    - Goal oriented : https://hal.archives-ouvertes.fr/hal-03128298/document , https://github.com/paulnovello/goal-oriented-ho
+    - Optune TPE : https://arxiv.org/pdf/2201.06433.pdf
+    - HP DOE: https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2018/1868-2018.pdf
 
 Last updated 1/5/2023
