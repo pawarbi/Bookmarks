@@ -124,6 +124,8 @@
     - Exmaples: https://github.com/amesar/mlflow-examples
     - https://muttdata.ai/blog/2021/02/12/ml-flow.html
     - mlflow.pyfunc for custom flavor : https://stackoverflow.com/questions/74257370/mlflow-pyfunc-load-model-mlflow-pyfunc-save-model-how-to-pass-additional-art
+- **Causal Inf**
+    - https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html
     - mlflow functions: https://mlops.community/scaling-ml-model-development-with-mlflow/
     - Recipes: https://fukumaruuu.medium.com/a-step-by-step-guide-to-using-mlflow-recipes-to-refactor-messy-notebooks-f78196b97ff0
     - MLFLOW to SQL: https://ploomber.io/blog/mlflow2sql/?utm_content=buffer0dfa8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
