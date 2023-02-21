@@ -110,6 +110,7 @@
 - Harvard AI research study notes: https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#
 - Auto TS : https://www.kaggle.com/code/konradb/ts-5-automatic-for-the-people
 - Dealing with pandemic in ts : https://arxiv.org/abs/2212.05369
+- Altair : https://uwdata.github.io/visualization-curriculum/intro.html
 - 
 - **RLS**
   - RLS and Data Masking : https://www.youtube.com/watch?v=9NDTm20XU0I
