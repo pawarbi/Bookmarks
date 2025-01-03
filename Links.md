@@ -142,5 +142,11 @@
 
 - **Causal Inf**
     - https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html
+- **PDF Data**
+    - [https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html](https://data.mendeley.com/datasets/tnj49gpmtz/2)
+    - https://data.oida-resources.jhu.edu/
+    - https://www.industrydocuments.ucsf.edu/
+    - https://universe.roboflow.com/search?q=class%3Ainvoice+discount
+    - https://madm.dfki.de/downloads-ds-doctor-bills
 
-Last updated 2/20/2023
+Last updated Jan 03, 2025
