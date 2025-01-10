@@ -148,5 +148,6 @@
     - https://www.industrydocuments.ucsf.edu/
     - https://universe.roboflow.com/search?q=class%3Ainvoice+discount
     - https://madm.dfki.de/downloads-ds-doctor-bills
+    - https://huggingface.co/datasets/katanaml-org/invoices-donut-data-v1
 
 Last updated Jan 03, 2025
