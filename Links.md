@@ -149,5 +149,12 @@
     - https://universe.roboflow.com/search?q=class%3Ainvoice+discount
     - https://madm.dfki.de/downloads-ds-doctor-bills
     - https://huggingface.co/datasets/katanaml-org/invoices-donut-data-v1
+      
+  - **PDF toLLM Tools**
+  -   IBM Docling
+  -   pymupdf4llm
+  -   Markitdown
+  -   sparrow
+  -   Surya
 
 Last updated Jan 03, 2025
