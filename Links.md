@@ -119,6 +119,8 @@
   - Shared Dataset: https://databayes.co.uk/row-level-security-on-a-power-bi-golden-dataset/
     - For shared datasets, give users viewer with build permission to the workspace (not build and edit) where dataset is. Or give users dataset specific access (not to the entire workspace). 
     - https://www.dynamicpeople.nl/en/news/sharing-datasets/
+    - https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Dynamic-Row-Level-Security-RLS-Implementation-in-Power-BI-Part-1/ba-p/4623528
+    - 
   - Reza's Book
  - **MLFlow**
     - Searching runs: https://www.databricks.com/blog/2019/10/03/analyzing-your-mlflow-data-with-dataframes.html
